@@ -1,0 +1,32 @@
+body{
+	width:100%;
+	background-color: #b366ff;
+	font-family: serif;
+	border:10px solid black;
+}
+h1, p{
+	color: white;
+	text-align: center;
+}
+
+#form{
+	width: 50%;
+	margin:auto;
+	border: 10px;
+	background-color: #26004d;
+	color: white
+}
+
+#survey-form{
+	color: white;
+	margin-left: 50pt;
+	margin-right:50pt;
+	font-size:15pt;
+}
+#submit{
+	font-size: 13pt;
+	background-color: green;
+	color: white;
+	display: flex;
+	margin: auto;
+}
